@@ -38,14 +38,15 @@ I specialize in Java, Python, Spring Boot, Django, and ML-based solutions.
 
 ## Featured Projects
 
-🔹 **Project Name 1**  
-Short 1–2 line description of what it does and the impact.
+🔹 **VoiceAst – Voice Assistant System**  
+A Python-based voice assistant that performs real-time speech recognition and task automation. Integrates NLP and system commands to execute actions such as web search, application control, and voice interaction, demonstrating applied AI in human-computer interaction.
 
-🔹 **Project Name 2**  
-Explain the problem it solves and technologies used.
+🔹 **Stock Market Anomaly Detection**  
+A machine learning project that analyzes stock market data to detect abnormal trading patterns. Uses statistical modeling and anomaly detection techniques to identify irregular market behavior and support data-driven financial insights.
 
-🔹 **Project Name 3**  
-Highlight ML accuracy / performance / architecture.
+🔹 **CRM Website – Full-Stack Customer Management System**  
+A web-based CRM platform built to manage customer records, authentication, and workflow processes. Implements backend logic, database integration, and UI components to simulate a real-world enterprise customer management environment.
+
 
 ---
 
