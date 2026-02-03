@@ -69,9 +69,9 @@ A web-based CRM platform built to manage customer records, authentication, and w
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aritra1243&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra1243&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=aritra1243&show_icons=true&theme=transparent)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra1243&layout=compact&theme=transparent)
 
 
 ---
