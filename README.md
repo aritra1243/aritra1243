@@ -13,28 +13,23 @@ I specialize in Java, Python, Spring Boot, Django, and ML-based solutions.
 
 ## Tech Stack
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,js,ts)](https://skillicons.dev)
 
-### Backend Development
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend & Frameworks
+[![Backend](https://skillicons.dev/icons?i=spring,django,fastapi,nodejs)](https://skillicons.dev)
 
-### Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Data Science & ML
+[![Data Science](https://skillicons.dev/icons?i=python,tensorflow,pytorch)](https://skillicons.dev)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+
+### Tools & DevOps
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)](https://skillicons.dev)
 
 ---
+
 
 ## Featured Projects
 
